@@ -1,0 +1,19 @@
+.cph/
+.vscode/
+
+# Ignore executables
+*.exe
+*.out
+*.bin
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore build directories
+/build/
+
+# without extensions
+*
+!*.*
+
